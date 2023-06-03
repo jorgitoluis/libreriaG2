@@ -5,7 +5,7 @@
       "marca": "bic",
       "precio": 100,
       "descuento": 5,
-      "stock": false,
+      "stock": true,
       "categoria": "artistica"
    },
    {
