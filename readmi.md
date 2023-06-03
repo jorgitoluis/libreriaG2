@@ -1,3 +1,0 @@
-# libreria
-## jorgitoluis-lider
-
