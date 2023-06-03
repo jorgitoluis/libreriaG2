@@ -4,7 +4,7 @@ const {leerJSON,escribirJSON} = require('../data');
 module.exports = {
       listar : require('./listar'),
       agregar:  require('./agregar'),
-    //   filtrar :  require('./filtar'),
+      filtrar :  require('./filtrar'),
       editar : require('./editar'),
       buscar :  require('./buscar')
     };
